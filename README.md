@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Angelo-Russotto/Angelo-Russotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+-  📌 I'm based in Pisa, Tuscany, Italy
+-  🔭 I have a BSc degree in Physics
+-  📊 Studying for MSc degree in Theoretical Physics
